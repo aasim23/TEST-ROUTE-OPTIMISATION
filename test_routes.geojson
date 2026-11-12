@@ -1,0 +1,32 @@
+
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.2603, 53.3498]
+      },
+      "properties": {
+        "Route": "TEST_MRD1",
+        "DOW": "Monday",
+        "Product": "MR240",
+        "Qty": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.2750, 53.3450]
+      },
+      "properties": {
+        "Route": "TEST_MRD2",
+        "DOW": "Tuesday",
+        "Product": "MR660",
+        "Qty": 1
+      }
+    }
+  ]
+}
